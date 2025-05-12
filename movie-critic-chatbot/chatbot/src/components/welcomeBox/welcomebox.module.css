@@ -1,0 +1,69 @@
+.rectangle1 {
+    width: 262px;
+    height: 196px;
+    border-radius: 10px;
+    border: 1.5px solid black;
+    justify-content: center;
+    margin: auto;
+    margin-top: 30%;
+    padding: 30px;
+    background-color: #C890A7;
+}
+
+h3 {
+    font-family: "Coming Soon", cursive;
+    font-weight: bolder;
+    font-style: normal;
+    text-align: center;
+    color: black;
+}
+
+.shadow-box {
+    width: 262px;
+    height: 196px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+.startButton {
+    width: 100px;
+    height:40px;
+    border: 1.5px solid black;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 20px;
+    margin-left: 45px;
+    font-family: "Coming Soon", cursive;
+    font-size: medium;
+    text-align: center;
+    padding: 9px;
+    color: black;
+    background-color: #C890A7;
+}
+
+.startButton:hover {
+    background-color: #A35C7A;
+    cursor: pointer;
+}
+
+.socialBox {
+    width:262px;
+    height: 80.87px;
+    border: 1.5px solid black;
+    border-radius: 10px;
+    justify-content: center;
+    margin: auto;
+    margin-top: 30%;
+    padding: 30px;
+    background-color: #C890A7;
+}
+.socialIcons {
+    display: flex;
+    width: 25px;
+    height: 25px;
+    column-gap: 35px;
+}
+
+.socialIcons:hover {
+    cursor: pointer;
+}
