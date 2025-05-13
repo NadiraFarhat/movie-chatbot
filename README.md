@@ -7,7 +7,7 @@ A movie chatbot that helps users find and discuss films using IMDb API and a con
 ## 🧠 Features
 
 - 🔎 Movie search via IMDb API
-- 💬 Conversational chatbot (e.g., Mistral or similar LLM)
+- 💬 Conversational chatbot using Mistral
 - 🎨 Frontend with React + Vite
 - 🛠 Backend with Node.js + Express
 
